@@ -1,0 +1,4 @@
+telegram_api_token: YOUR_TOKEN_HERE
+channel_id:
+  NAME1: "12345678"
+  NAME2: "98765432"
