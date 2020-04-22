@@ -1,5 +1,5 @@
 # handler_funcs
-"""Functions needed for sensu handlers."""
+"""Functions needed for the bot."""
 
 import yaml
 from os import path as ospath
